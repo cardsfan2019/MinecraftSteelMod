@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "active=false,facing=north": { "model": "bsp:quarry"},
+        "active=false,facing=east": { "model": "bsp:quarry", "y": 90},
+        "active=false,facing=south": { "model": "bsp:quarry", "y": 180},
+        "active=false,facing=west": { "model": "bsp:quarry", "y": 270},
+        "active=true,facing=north": { "model": "bsp:quarry"},
+        "active=true,facing=east": { "model": "bsp:quarry", "y": 90},
+        "active=true,facing=south": { "model": "bsp:quarry", "y": 180},
+        "active=true,facing=west": { "model": "bsp:quarry", "y": 270}
+    }
+}

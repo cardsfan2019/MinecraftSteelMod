@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "iii",
+        " s ",
+        " s "
+    ],
+    "key":
+    {
+        "i":
+        {
+            "item": "bsp:steel_ingot"
+        },
+        "s":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result":
+    {
+        "item": "bsp:steel_pickaxe",
+        "count": 1
+    }
+}

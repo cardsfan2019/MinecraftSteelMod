@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "bsp:steel_ingot"
+        }
+    ],
+    "result": {
+        "item": "bsp:steel_nugget",
+        "count": 9
+    }
+}

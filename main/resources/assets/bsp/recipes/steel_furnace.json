@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xfx",
+        "xmx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:nether_brick"
+        },
+        "m":
+        {
+            "item": "minecraft:nether_star"
+        },
+        "f":
+        {
+            "item": "minecraft:furnace"
+        }
+    },
+    "result":
+    {
+        "item": "bsp:steel_furnace",
+        "count": 1
+    }
+}

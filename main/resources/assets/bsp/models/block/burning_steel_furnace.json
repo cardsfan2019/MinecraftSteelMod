@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "minecraft:blocks/nether_brick",
+        "up": "minecraft:blocks/nether_brick",
+        "down": "minecraft:blocks/nether_brick",
+        "north": "bsp:blocks/steel_furnace_front_on",
+        "east": "minecraft:blocks/nether_brick",
+        "south": "minecraft:blocks/nether_brick",
+        "west": "minecraft:blocks/nether_brick"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "bsp:block/steel_furnace",
+    "textures": {
+        "layer0": "bsp:block/steel_block"
+    }
+}

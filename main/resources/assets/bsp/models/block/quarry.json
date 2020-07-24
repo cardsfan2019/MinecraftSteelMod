@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "bsp:blocks/quarry",
+        "up": "bsp:blocks/quarry",
+        "down": "bsp:blocks/quarry",
+        "north": "bsp:blocks/quarry_front",
+        "east": "bsp:blocks/quarry",
+        "south": "bsp:blocks/quarry",
+        "west": "bsp:blocks/quarry"
+    }
+}

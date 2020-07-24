@@ -1,0 +1,6 @@
+{
+    "parent": "bsp:block/quarry",
+    "textures": {
+        "layer0": "bsp:block/quarry"
+    }
+}
